@@ -1,5 +1,6 @@
 CompileFlags:
   Add: [
+    "-std=c99",
     "-I/home/sonnycalcr/EDisk/CCodes/CFAQCodes/includes",
     # -Wno-unused-value,
   ] # ignore some specific warnings
